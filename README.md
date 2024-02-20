@@ -1,6 +1,6 @@
 # LeetCode Solved Problems
 
-![Leetcode Logo](lc.png)
+![Leetcode Logo](/extras/lc.png)
 
 ## Overview
 This repository contains solutions to LeetCode problems (Easy, Medium, Hard) categorized by Weeks. Each problem is solved using Python in separate Jupyter notebooks, accompanied by detailed explanations and notes.
